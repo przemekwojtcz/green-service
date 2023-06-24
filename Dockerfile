@@ -1,5 +1,5 @@
 FROM openjdk:17-alpine
-EXPOSE 8080
+EXPOSE 8081
 
 COPY target/service-green.jar .
 
